@@ -3,7 +3,7 @@ title: September 7th Lecture Notes
 date: September 7, 2020
 ---
 
-# September 7
+# September 7: Intro
 
 ## Thinking about stuff
 
