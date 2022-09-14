@@ -7,13 +7,13 @@ public class Point {
 
     /* Here we have a class field that applies to EVERY instance of this class *
      * it's a fancy way to say global variable                                 */
-    private static int num = 0;
+    private static int num;
 
     /* this is a constructor */
     public Point(int x, int y) {
         this.x = x;
         this.y = y;
-        this.num += 1;
+        this.num++;
     }
 
 
