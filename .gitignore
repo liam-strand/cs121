@@ -1,6 +1,6 @@
 #### USER ####
 .DS_Store
-
+*.bak
 #### JAVA ####
 
 # Compiled class file
