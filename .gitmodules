@@ -1,3 +1,6 @@
 [submodule "p1"]
 	path = p1
 	url = git@github.com:liam-strand/cs121-p1.git
+[submodule "p2"]
+	path = p2
+	url = git@github.com:liam-strand/cs121-p2.git

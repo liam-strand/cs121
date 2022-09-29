@@ -1,6 +1,6 @@
 ---
 title: Even More Java
-date: September 14, 2020
+date: September 21, 2022
 ---
 
 # Parametric Types

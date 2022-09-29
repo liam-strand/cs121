@@ -1,6 +1,6 @@
 ---
 title: September 14th Lecture Notes
-date: September 14, 2020
+date: September 14, 2022
 ---
 
 # September 14: More Java

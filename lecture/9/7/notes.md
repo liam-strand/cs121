@@ -1,6 +1,6 @@
 ---
 title: September 7th Lecture Notes
-date: September 7, 2020
+date: September 7, 2022
 ---
 
 # September 7: Intro
