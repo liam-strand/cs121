@@ -4,3 +4,12 @@
 [submodule "p2"]
 	path = p2
 	url = git@github.com:liam-strand/cs121-p2.git
+[submodule "p3"]
+	path = p3
+	url = git@github.com:liam-strand/cs121-p3.git
+[submodule "p4"]
+	path = p4
+	url = git@github.com:liam-strand/cs121-p4.git
+[submodule "p5"]
+	path = p5
+	url = git@github.com:liam-strand/cs121-p5.git
