@@ -13,3 +13,6 @@
 [submodule "p5"]
 	path = p5
 	url = git@github.com:liam-strand/cs121-p5.git
+[submodule "final_exam"]
+	path = final_exam
+	url = git@github.com:liam-strand/cs121-final-exam.git
